@@ -52,7 +52,7 @@ The system includes two types of users:
 Clone the Repository:
 
 ```bash
-git clone https://github.com/your-repository/employment-system.git
+git clone https://github.com/AdhamMo1/EmploymentSystemApi.git
 cd employment-system
 ```
 ### Database Setup:
