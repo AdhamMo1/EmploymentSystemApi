@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\TaskTraining\\EmploymentSystem\\EmploymentSystemApi\\wwwroot\\Applicant_Resume\\133787879089135131.Adham-Mohamed-BackEnd.pdf",
+      "PackagePath": "staticwebassets\\Applicant_Resume\\133787879089135131.Adham-Mohamed-BackEnd.pdf"
+    },
+    {
+      "Id": "D:\\TaskTraining\\EmploymentSystem\\EmploymentSystemApi\\wwwroot\\Applicant_Resume\\133787879142305422.Adham-Mohamed-BackEnd.pdf",
+      "PackagePath": "staticwebassets\\Applicant_Resume\\133787879142305422.Adham-Mohamed-BackEnd.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EmploymentSystemApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EmploymentSystemApi.props",
+      "PackagePath": "build\\EmploymentSystemApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EmploymentSystemApi.props",
+      "PackagePath": "buildMultiTargeting\\EmploymentSystemApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EmploymentSystemApi.props",
+      "PackagePath": "buildTransitive\\EmploymentSystemApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

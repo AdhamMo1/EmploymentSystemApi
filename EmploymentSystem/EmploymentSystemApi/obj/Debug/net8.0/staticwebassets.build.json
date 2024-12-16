@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "VpKPDTA4I9zappdRdsyQTXTOJB1LGkzi8z6DW6OkmIA=",
+  "Source": "EmploymentSystemApi",
+  "BasePath": "_content/EmploymentSystemApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EmploymentSystemApi\\wwwroot",
+      "Source": "EmploymentSystemApi",
+      "ContentRoot": "D:\\TaskTraining\\EmploymentSystem\\EmploymentSystemApi\\wwwroot\\",
+      "BasePath": "_content/EmploymentSystemApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\TaskTraining\\EmploymentSystem\\EmploymentSystemApi\\wwwroot\\Applicant_Resume\\133787879089135131.Adham-Mohamed-BackEnd.pdf",
+      "SourceId": "EmploymentSystemApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TaskTraining\\EmploymentSystem\\EmploymentSystemApi\\wwwroot\\",
+      "BasePath": "_content/EmploymentSystemApi",
+      "RelativePath": "Applicant_Resume/133787879089135131.Adham-Mohamed-BackEnd.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Applicant_Resume\\133787879089135131.Adham-Mohamed-BackEnd.pdf"
+    },
+    {
+      "Identity": "D:\\TaskTraining\\EmploymentSystem\\EmploymentSystemApi\\wwwroot\\Applicant_Resume\\133787879142305422.Adham-Mohamed-BackEnd.pdf",
+      "SourceId": "EmploymentSystemApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TaskTraining\\EmploymentSystem\\EmploymentSystemApi\\wwwroot\\",
+      "BasePath": "_content/EmploymentSystemApi",
+      "RelativePath": "Applicant_Resume/133787879142305422.Adham-Mohamed-BackEnd.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Applicant_Resume\\133787879142305422.Adham-Mohamed-BackEnd.pdf"
+    }
+  ]
+}
