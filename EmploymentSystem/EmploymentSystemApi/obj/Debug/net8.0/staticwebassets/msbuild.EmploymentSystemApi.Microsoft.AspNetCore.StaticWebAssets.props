@@ -1,6 +1,6 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Applicant_Resume\133787879089135131.Adham-Mohamed-BackEnd.pdf))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Applicant_Resume\133787879089135131.Adham-Mohamed-BackEnd.pdf'))">
       <SourceType>Package</SourceType>
       <SourceId>EmploymentSystemApi</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
@@ -12,11 +12,13 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>q5mud44e2q</Fingerprint>
+      <Integrity>rkiryOxOl7QtLlpGHSo5DFHK4CHLzEIeasCQ6GWjsEA=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Applicant_Resume\133787879089135131.Adham-Mohamed-BackEnd.pdf))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Applicant_Resume\133787879089135131.Adham-Mohamed-BackEnd.pdf'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Applicant_Resume\133787879142305422.Adham-Mohamed-BackEnd.pdf))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Applicant_Resume\133787879142305422.Adham-Mohamed-BackEnd.pdf'))">
       <SourceType>Package</SourceType>
       <SourceId>EmploymentSystemApi</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
@@ -28,9 +30,65 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>q5mud44e2q</Fingerprint>
+      <Integrity>rkiryOxOl7QtLlpGHSo5DFHK4CHLzEIeasCQ6GWjsEA=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Applicant_Resume\133787879142305422.Adham-Mohamed-BackEnd.pdf))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Applicant_Resume\133787879142305422.Adham-Mohamed-BackEnd.pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Applicant_Resume\133788042523542209.Adham-Resume.pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>EmploymentSystemApi</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/EmploymentSystemApi</BasePath>
+      <RelativePath>Applicant_Resume/133788042523542209.Adham-Resume.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>cv9vx3puiv</Fingerprint>
+      <Integrity>uADGqxfDy5paD6OwQOL5QHfQYz1HKOg4txKHgKJXvG8=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Applicant_Resume\133788042523542209.Adham-Resume.pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Applicant_Resume\133788048049601514.Adham-Mohamed-cv.pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>EmploymentSystemApi</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/EmploymentSystemApi</BasePath>
+      <RelativePath>Applicant_Resume/133788048049601514.Adham-Mohamed-cv.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>qs9h9wd3jv</Fingerprint>
+      <Integrity>Jvu66Nrx/3nREtEA9oOQiR0lmfAqkF4hZWjgjx4xs+c=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Applicant_Resume\133788048049601514.Adham-Mohamed-cv.pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Applicant_Resume\133788052239370544.Adham-Mohamed-cv.pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>EmploymentSystemApi</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/EmploymentSystemApi</BasePath>
+      <RelativePath>Applicant_Resume/133788052239370544.Adham-Mohamed-cv.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>qs9h9wd3jv</Fingerprint>
+      <Integrity>Jvu66Nrx/3nREtEA9oOQiR0lmfAqkF4hZWjgjx4xs+c=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Applicant_Resume\133788052239370544.Adham-Mohamed-cv.pdf'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>

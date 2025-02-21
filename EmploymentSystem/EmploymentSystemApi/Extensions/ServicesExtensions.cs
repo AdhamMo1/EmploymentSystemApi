@@ -1,13 +1,16 @@
 using EmploymentSystemApplication.DTOs.Authentication;
 using EmploymentSystemApplication.Services;
 using EmploymentSystemApplication.ServicesContract;
+using EmploymentSystemApplication.ServicesContract.Caching;
 using EmploymentSystemApplication.UnitOfWorkContract;
 using EmploymentSystemDomain.Entities;
+using EmploymentSystemInfrastructure.Caching;
 using EmploymentSystemInfrastructure.Data;
 using EmploymentSystemInfrastructure.UnitOfWork;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using System.Text;
@@ -75,6 +78,12 @@ public static class ServicesExtensions
             c.AddSecurityRequirement(securityRequirement);
 
         });
+        // config caching with Redis
+        services.AddStackExchangeRedisCache(options =>
+        {
+            
+            options.Configuration = "redis-11647.c12.us-east-1-4.ec2.redns.redis-cloud.com:11647,password=FykXynjaXbHO6jnccAsHe9usxnFgGXyV";
+        });
         // config AutoMapper
         services.AddAutoMapper(typeof(AuthenticationResponse));
         // config meditor
@@ -84,6 +93,7 @@ public static class ServicesExtensions
         services.AddScoped<IUnitOfWork,UnitOfWork>();
         services.AddScoped<IVacancyService, VacancyService>();
         services.AddScoped<IApplicantApplicationService,ApplicantApplicationService>();
+        services.AddScoped<ICachingService, CachingService>();
         return services;
     }
 }

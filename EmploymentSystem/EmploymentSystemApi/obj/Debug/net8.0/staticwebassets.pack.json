@@ -1,12 +1,28 @@
 {
   "Files": [
     {
-      "Id": "D:\\TaskTraining\\EmploymentSystem\\EmploymentSystemApi\\wwwroot\\Applicant_Resume\\133787879089135131.Adham-Mohamed-BackEnd.pdf",
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemApi\\wwwroot\\Applicant_Resume\\133787879089135131.Adham-Mohamed-BackEnd.pdf",
       "PackagePath": "staticwebassets\\Applicant_Resume\\133787879089135131.Adham-Mohamed-BackEnd.pdf"
     },
     {
-      "Id": "D:\\TaskTraining\\EmploymentSystem\\EmploymentSystemApi\\wwwroot\\Applicant_Resume\\133787879142305422.Adham-Mohamed-BackEnd.pdf",
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemApi\\wwwroot\\Applicant_Resume\\133787879142305422.Adham-Mohamed-BackEnd.pdf",
       "PackagePath": "staticwebassets\\Applicant_Resume\\133787879142305422.Adham-Mohamed-BackEnd.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemApi\\wwwroot\\Applicant_Resume\\133788042523542209.Adham-Resume.pdf",
+      "PackagePath": "staticwebassets\\Applicant_Resume\\133788042523542209.Adham-Resume.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemApi\\wwwroot\\Applicant_Resume\\133788048049601514.Adham-Mohamed-cv.pdf",
+      "PackagePath": "staticwebassets\\Applicant_Resume\\133788048049601514.Adham-Mohamed-cv.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemApi\\wwwroot\\Applicant_Resume\\133788052239370544.Adham-Mohamed-cv.pdf",
+      "PackagePath": "staticwebassets\\Applicant_Resume\\133788052239370544.Adham-Mohamed-cv.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EmploymentSystemApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EmploymentSystemApi.Microsoft.AspNetCore.StaticWebAssets.props",

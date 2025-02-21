@@ -1,5 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmploymentSystemApi", "EmploymentSystemApi\EmploymentSystemApi.csproj", "{58D25995-F24A-465F-B144-7F3FE48E0C5D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmploymentSystemApplication", "EmploymentSystemApplication\EmploymentSystemApplication.csproj", "{F1F3B76B-EFA6-446D-BCF4-CFC6E7409240}"
@@ -30,5 +33,8 @@ Global
 		{AFE86490-F8FD-42DA-ADEB-B15DD25EC165}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFE86490-F8FD-42DA-ADEB-B15DD25EC165}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFE86490-F8FD-42DA-ADEB-B15DD25EC165}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,64 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/EmploymentSystemApi/Applicant_Resume/133787879089135131.Adham-Mohamed-BackEnd.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Applicant_Resume\133787879089135131.Adham-Mohamed-BackEnd.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rkiryOxOl7QtLlpGHSo5DFHK4CHLzEIeasCQ6GWjsEA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"74985"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022rkiryOxOl7QtLlpGHSo5DFHK4CHLzEIeasCQ6GWjsEA=\u0022"},{"Name":"Last-Modified","Value":"Wed, 19 Feb 2025 02:51:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmploymentSystemApi/Applicant_Resume/133787879089135131.Adham-Mohamed-BackEnd.q5mud44e2q.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Applicant_Resume\133787879089135131.Adham-Mohamed-BackEnd.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"q5mud44e2q"},{"Name":"integrity","Value":"sha256-rkiryOxOl7QtLlpGHSo5DFHK4CHLzEIeasCQ6GWjsEA="},{"Name":"label","Value":"_content/EmploymentSystemApi/Applicant_Resume/133787879089135131.Adham-Mohamed-BackEnd.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"74985"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022rkiryOxOl7QtLlpGHSo5DFHK4CHLzEIeasCQ6GWjsEA=\u0022"},{"Name":"Last-Modified","Value":"Wed, 19 Feb 2025 02:51:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmploymentSystemApi/Applicant_Resume/133787879142305422.Adham-Mohamed-BackEnd.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Applicant_Resume\133787879142305422.Adham-Mohamed-BackEnd.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rkiryOxOl7QtLlpGHSo5DFHK4CHLzEIeasCQ6GWjsEA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"74985"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022rkiryOxOl7QtLlpGHSo5DFHK4CHLzEIeasCQ6GWjsEA=\u0022"},{"Name":"Last-Modified","Value":"Wed, 19 Feb 2025 02:51:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmploymentSystemApi/Applicant_Resume/133787879142305422.Adham-Mohamed-BackEnd.q5mud44e2q.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Applicant_Resume\133787879142305422.Adham-Mohamed-BackEnd.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"q5mud44e2q"},{"Name":"integrity","Value":"sha256-rkiryOxOl7QtLlpGHSo5DFHK4CHLzEIeasCQ6GWjsEA="},{"Name":"label","Value":"_content/EmploymentSystemApi/Applicant_Resume/133787879142305422.Adham-Mohamed-BackEnd.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"74985"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022rkiryOxOl7QtLlpGHSo5DFHK4CHLzEIeasCQ6GWjsEA=\u0022"},{"Name":"Last-Modified","Value":"Wed, 19 Feb 2025 02:51:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmploymentSystemApi/Applicant_Resume/133788042523542209.Adham-Resume.cv9vx3puiv.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Applicant_Resume\133788042523542209.Adham-Resume.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"cv9vx3puiv"},{"Name":"integrity","Value":"sha256-uADGqxfDy5paD6OwQOL5QHfQYz1HKOg4txKHgKJXvG8="},{"Name":"label","Value":"_content/EmploymentSystemApi/Applicant_Resume/133788042523542209.Adham-Resume.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"75417"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022uADGqxfDy5paD6OwQOL5QHfQYz1HKOg4txKHgKJXvG8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 19 Feb 2025 02:51:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmploymentSystemApi/Applicant_Resume/133788042523542209.Adham-Resume.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Applicant_Resume\133788042523542209.Adham-Resume.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-uADGqxfDy5paD6OwQOL5QHfQYz1HKOg4txKHgKJXvG8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"75417"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022uADGqxfDy5paD6OwQOL5QHfQYz1HKOg4txKHgKJXvG8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 19 Feb 2025 02:51:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmploymentSystemApi/Applicant_Resume/133788048049601514.Adham-Mohamed-cv.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Applicant_Resume\133788048049601514.Adham-Mohamed-cv.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Jvu66Nrx/3nREtEA9oOQiR0lmfAqkF4hZWjgjx4xs\u002Bc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"75399"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022Jvu66Nrx/3nREtEA9oOQiR0lmfAqkF4hZWjgjx4xs\u002Bc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 19 Feb 2025 02:51:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmploymentSystemApi/Applicant_Resume/133788048049601514.Adham-Mohamed-cv.qs9h9wd3jv.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Applicant_Resume\133788048049601514.Adham-Mohamed-cv.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qs9h9wd3jv"},{"Name":"integrity","Value":"sha256-Jvu66Nrx/3nREtEA9oOQiR0lmfAqkF4hZWjgjx4xs\u002Bc="},{"Name":"label","Value":"_content/EmploymentSystemApi/Applicant_Resume/133788048049601514.Adham-Mohamed-cv.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"75399"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022Jvu66Nrx/3nREtEA9oOQiR0lmfAqkF4hZWjgjx4xs\u002Bc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 19 Feb 2025 02:51:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmploymentSystemApi/Applicant_Resume/133788052239370544.Adham-Mohamed-cv.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Applicant_Resume\133788052239370544.Adham-Mohamed-cv.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Jvu66Nrx/3nREtEA9oOQiR0lmfAqkF4hZWjgjx4xs\u002Bc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"75399"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022Jvu66Nrx/3nREtEA9oOQiR0lmfAqkF4hZWjgjx4xs\u002Bc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 19 Feb 2025 02:51:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EmploymentSystemApi/Applicant_Resume/133788052239370544.Adham-Mohamed-cv.qs9h9wd3jv.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Applicant_Resume\133788052239370544.Adham-Mohamed-cv.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qs9h9wd3jv"},{"Name":"integrity","Value":"sha256-Jvu66Nrx/3nREtEA9oOQiR0lmfAqkF4hZWjgjx4xs\u002Bc="},{"Name":"label","Value":"_content/EmploymentSystemApi/Applicant_Resume/133788052239370544.Adham-Mohamed-cv.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"75399"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022Jvu66Nrx/3nREtEA9oOQiR0lmfAqkF4hZWjgjx4xs\u002Bc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 19 Feb 2025 02:51:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

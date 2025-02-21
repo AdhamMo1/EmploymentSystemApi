@@ -2,6 +2,7 @@
 using EmploymentSystemApplication.DTOs;
 using EmploymentSystemApplication.DTOs.Vacancy;
 using EmploymentSystemApplication.ServicesContract;
+using EmploymentSystemApplication.ServicesContract.Caching;
 using EmploymentSystemApplication.UnitOfWorkContract;
 using EmploymentSystemDomain.Entities;
 using EmploymentSystemDomain.Enums;
@@ -15,10 +16,12 @@ namespace EmploymentSystemApplication.Services
     {
         private readonly IUnitOfWork _unitOfWork;
         private IMapper _mapper;
-        public VacancyService(IUnitOfWork unitOfWork, IMapper mapper)
+        private readonly ICachingService _cachingService;
+        public VacancyService(IUnitOfWork unitOfWork, IMapper mapper, ICachingService cachingService)
         {
             _unitOfWork = unitOfWork;
             _mapper = mapper;
+            _cachingService = cachingService;
         }
 
         public async Task<ApiResponse> CreateVacancyServiceAsync(CreateVacancyDto createVacancyDto)
@@ -28,6 +31,7 @@ namespace EmploymentSystemApplication.Services
                 var newVacancy = _mapper.Map<Vacancy>(createVacancyDto);
                 await _unitOfWork.Repository<Vacancy>().CreateAsync(newVacancy);
                 await _unitOfWork.SaveAsync();
+                await _cachingService.RemoveByPrefixAsync("Vacancy");
                 return new ApiResponse
                 {
                     Message = "Done Successfully",
@@ -115,15 +119,22 @@ namespace EmploymentSystemApplication.Services
 
         public async Task<ApiResponse> GetAllVacanciesServiceAsync(VacancyFilterParams vacancyFilterParams, PaginationParams paginationParams)
         {
+            ApiResponse? CachedResponse = await _cachingService.GetAsync<ApiResponse>($"Vacancy: GetAll : JobType: {vacancyFilterParams.jobTypeOptions.ToString()} - VacancyStatus: {vacancyFilterParams.status.ToString()} - pageIndex: {paginationParams.PageIndex} - pageSize: {paginationParams.PageSize}");
+            if (CachedResponse is not null)
+            {
+                return CachedResponse;
+            }
             var result = await _unitOfWork.Repository<Vacancy>().ReadAll(filters: [vacancyFilterParams.jobTypeOptions is null ? null : x => x.JopType == vacancyFilterParams.jobTypeOptions.ToString(),vacancyFilterParams.status is null ? null :  x => x.Status == vacancyFilterParams.status.ToString()]
                                                                 , pageIndex: (int)paginationParams.PageIndex, pageSize: (int)paginationParams.PageSize);
-            return new ApiResponse
+            var response = new ApiResponse
             {
-                Message = "Done Successfully",
-                StatusCode = StatusCodes.Status200OK,
-                IsSuccess = true,
-                Result = _mapper.Map<IEnumerable<VacancyResponseDto>>(result)
+               Message = "Done Successfully",
+               StatusCode = StatusCodes.Status200OK,
+               IsSuccess = true,
+               Result = _mapper.Map<IEnumerable<VacancyResponseDto>>(result)
             };
+            await _cachingService.SetAsync($"Vacancy: GetAll : JobType: {vacancyFilterParams.jobTypeOptions.ToString()} - VacancyStatus: {vacancyFilterParams.status.ToString()} - pageIndex: {paginationParams.PageIndex} - pageSize: {paginationParams.PageSize}", response);
+            return response;
         }
 
         public async Task<ApiResponse> GetVacancyServiceAsync(Guid? id, string? jobTitle)

@@ -10,3 +10,16 @@ D:\TaskTraining\EmploymentSystem\EmploymentSystemDomain\obj\Debug\net8.0\refint\
 D:\TaskTraining\EmploymentSystem\EmploymentSystemDomain\obj\Debug\net8.0\EmploymentSystemDomain.pdb
 D:\TaskTraining\EmploymentSystem\EmploymentSystemDomain\obj\Debug\net8.0\ref\EmploymentSystemDomain.dll
 D:\TaskTraining\EmploymentSystem\EmploymentSystemDomain\obj\Debug\net8.0\EmploymentSystemDomain.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\AdhamMo1\EmploymentSystemApi\EmploymentSystem\EmploymentSystemDomain\bin\Debug\net8.0\EmploymentSystemDomain.deps.json
+C:\Users\Lenovo\source\repos\AdhamMo1\EmploymentSystemApi\EmploymentSystem\EmploymentSystemDomain\bin\Debug\net8.0\EmploymentSystemDomain.dll
+C:\Users\Lenovo\source\repos\AdhamMo1\EmploymentSystemApi\EmploymentSystem\EmploymentSystemDomain\bin\Debug\net8.0\EmploymentSystemDomain.pdb
+C:\Users\Lenovo\source\repos\AdhamMo1\EmploymentSystemApi\EmploymentSystem\EmploymentSystemDomain\obj\Debug\net8.0\EmploymentSystemDomain.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\AdhamMo1\EmploymentSystemApi\EmploymentSystem\EmploymentSystemDomain\obj\Debug\net8.0\EmploymentSystemDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\AdhamMo1\EmploymentSystemApi\EmploymentSystem\EmploymentSystemDomain\obj\Debug\net8.0\EmploymentSystemDomain.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\AdhamMo1\EmploymentSystemApi\EmploymentSystem\EmploymentSystemDomain\obj\Debug\net8.0\EmploymentSystemDomain.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\AdhamMo1\EmploymentSystemApi\EmploymentSystem\EmploymentSystemDomain\obj\Debug\net8.0\EmploymentSystemDomain.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\AdhamMo1\EmploymentSystemApi\EmploymentSystem\EmploymentSystemDomain\obj\Debug\net8.0\EmploymentSystemDomain.sourcelink.json
+C:\Users\Lenovo\source\repos\AdhamMo1\EmploymentSystemApi\EmploymentSystem\EmploymentSystemDomain\obj\Debug\net8.0\EmploymentSystemDomain.dll
+C:\Users\Lenovo\source\repos\AdhamMo1\EmploymentSystemApi\EmploymentSystem\EmploymentSystemDomain\obj\Debug\net8.0\refint\EmploymentSystemDomain.dll
+C:\Users\Lenovo\source\repos\AdhamMo1\EmploymentSystemApi\EmploymentSystem\EmploymentSystemDomain\obj\Debug\net8.0\EmploymentSystemDomain.pdb
+C:\Users\Lenovo\source\repos\AdhamMo1\EmploymentSystemApi\EmploymentSystem\EmploymentSystemDomain\obj\Debug\net8.0\ref\EmploymentSystemDomain.dll

@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TaskTraining\\EmploymentSystem\\EmploymentSystemApi\\EmploymentSystemApi.csproj": {}
+    "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemApi\\EmploymentSystemApi.csproj": {}
   },
   "projects": {
-    "D:\\TaskTraining\\EmploymentSystem\\EmploymentSystemApi\\EmploymentSystemApi.csproj": {
+    "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemApi\\EmploymentSystemApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TaskTraining\\EmploymentSystem\\EmploymentSystemApi\\EmploymentSystemApi.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemApi\\EmploymentSystemApi.csproj",
         "projectName": "EmploymentSystemApi",
-        "projectPath": "D:\\TaskTraining\\EmploymentSystem\\EmploymentSystemApi\\EmploymentSystemApi.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemApi\\EmploymentSystemApi.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\TaskTraining\\EmploymentSystem\\EmploymentSystemApi\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemApi\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,18 +26,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\TaskTraining\\EmploymentSystem\\EmploymentSystemApplication\\EmploymentSystemApplication.csproj": {
-                "projectPath": "D:\\TaskTraining\\EmploymentSystem\\EmploymentSystemApplication\\EmploymentSystemApplication.csproj"
+              "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemApplication\\EmploymentSystemApplication.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemApplication\\EmploymentSystemApplication.csproj"
               },
-              "D:\\TaskTraining\\EmploymentSystem\\EmploymentSystemInfrastructure\\EmploymentSystemInfrastructure.csproj": {
-                "projectPath": "D:\\TaskTraining\\EmploymentSystem\\EmploymentSystemInfrastructure\\EmploymentSystemInfrastructure.csproj"
+              "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemInfrastructure\\EmploymentSystemInfrastructure.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemInfrastructure\\EmploymentSystemInfrastructure.csproj"
               }
             }
           }
@@ -47,7 +50,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -87,21 +91,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200-preview.23624.5/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\TaskTraining\\EmploymentSystem\\EmploymentSystemApplication\\EmploymentSystemApplication.csproj": {
+    "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemApplication\\EmploymentSystemApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TaskTraining\\EmploymentSystem\\EmploymentSystemApplication\\EmploymentSystemApplication.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemApplication\\EmploymentSystemApplication.csproj",
         "projectName": "EmploymentSystemApplication",
-        "projectPath": "D:\\TaskTraining\\EmploymentSystem\\EmploymentSystemApplication\\EmploymentSystemApplication.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemApplication\\EmploymentSystemApplication.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\TaskTraining\\EmploymentSystem\\EmploymentSystemApplication\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemApplication\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -109,15 +117,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\TaskTraining\\EmploymentSystem\\EmploymentSystemDomain\\EmploymentSystemDomain.csproj": {
-                "projectPath": "D:\\TaskTraining\\EmploymentSystem\\EmploymentSystemDomain\\EmploymentSystemDomain.csproj"
+              "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemDomain\\EmploymentSystemDomain.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemDomain\\EmploymentSystemDomain.csproj"
               }
             }
           }
@@ -131,7 +138,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -148,6 +156,10 @@
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[8.0.11, )"
+            },
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[8.0.13, )"
             },
             "TS.FileService": {
               "target": "Package",
@@ -170,21 +182,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200-preview.23624.5/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\TaskTraining\\EmploymentSystem\\EmploymentSystemDomain\\EmploymentSystemDomain.csproj": {
+    "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemDomain\\EmploymentSystemDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TaskTraining\\EmploymentSystem\\EmploymentSystemDomain\\EmploymentSystemDomain.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemDomain\\EmploymentSystemDomain.csproj",
         "projectName": "EmploymentSystemDomain",
-        "projectPath": "D:\\TaskTraining\\EmploymentSystem\\EmploymentSystemDomain\\EmploymentSystemDomain.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemDomain\\EmploymentSystemDomain.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\TaskTraining\\EmploymentSystem\\EmploymentSystemDomain\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemDomain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -192,7 +208,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -210,7 +225,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -237,21 +253,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200-preview.23624.5/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\TaskTraining\\EmploymentSystem\\EmploymentSystemInfrastructure\\EmploymentSystemInfrastructure.csproj": {
+    "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemInfrastructure\\EmploymentSystemInfrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TaskTraining\\EmploymentSystem\\EmploymentSystemInfrastructure\\EmploymentSystemInfrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemInfrastructure\\EmploymentSystemInfrastructure.csproj",
         "projectName": "EmploymentSystemInfrastructure",
-        "projectPath": "D:\\TaskTraining\\EmploymentSystem\\EmploymentSystemInfrastructure\\EmploymentSystemInfrastructure.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemInfrastructure\\EmploymentSystemInfrastructure.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\TaskTraining\\EmploymentSystem\\EmploymentSystemInfrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemInfrastructure\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -259,15 +279,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\TaskTraining\\EmploymentSystem\\EmploymentSystemApplication\\EmploymentSystemApplication.csproj": {
-                "projectPath": "D:\\TaskTraining\\EmploymentSystem\\EmploymentSystemApplication\\EmploymentSystemApplication.csproj"
+              "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemApplication\\EmploymentSystemApplication.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemApplication\\EmploymentSystemApplication.csproj"
               }
             }
           }
@@ -281,7 +300,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -304,6 +324,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.11, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             }
           },
           "imports": [
@@ -322,7 +346,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200-preview.23624.5/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

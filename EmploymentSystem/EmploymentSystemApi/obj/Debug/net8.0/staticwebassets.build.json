@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VpKPDTA4I9zappdRdsyQTXTOJB1LGkzi8z6DW6OkmIA=",
+  "Hash": "WRmIdiUYiWInE2cRr9IAxSdW8c5580IInYiH226mDQs=",
   "Source": "EmploymentSystemApi",
   "BasePath": "_content/EmploymentSystemApi",
   "Mode": "Default",
@@ -10,49 +10,528 @@
     {
       "Name": "EmploymentSystemApi\\wwwroot",
       "Source": "EmploymentSystemApi",
-      "ContentRoot": "D:\\TaskTraining\\EmploymentSystem\\EmploymentSystemApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemApi\\wwwroot\\",
       "BasePath": "_content/EmploymentSystemApi",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\TaskTraining\\EmploymentSystem\\EmploymentSystemApi\\wwwroot\\Applicant_Resume\\133787879089135131.Adham-Mohamed-BackEnd.pdf",
+      "Identity": "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemApi\\wwwroot\\Applicant_Resume\\133787879089135131.Adham-Mohamed-BackEnd.pdf",
       "SourceId": "EmploymentSystemApi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\TaskTraining\\EmploymentSystem\\EmploymentSystemApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemApi\\wwwroot\\",
       "BasePath": "_content/EmploymentSystemApi",
-      "RelativePath": "Applicant_Resume/133787879089135131.Adham-Mohamed-BackEnd.pdf",
+      "RelativePath": "Applicant_Resume/133787879089135131.Adham-Mohamed-BackEnd#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "q5mud44e2q",
+      "Integrity": "rkiryOxOl7QtLlpGHSo5DFHK4CHLzEIeasCQ6GWjsEA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Applicant_Resume\\133787879089135131.Adham-Mohamed-BackEnd.pdf"
     },
     {
-      "Identity": "D:\\TaskTraining\\EmploymentSystem\\EmploymentSystemApi\\wwwroot\\Applicant_Resume\\133787879142305422.Adham-Mohamed-BackEnd.pdf",
+      "Identity": "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemApi\\wwwroot\\Applicant_Resume\\133787879142305422.Adham-Mohamed-BackEnd.pdf",
       "SourceId": "EmploymentSystemApi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\TaskTraining\\EmploymentSystem\\EmploymentSystemApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemApi\\wwwroot\\",
       "BasePath": "_content/EmploymentSystemApi",
-      "RelativePath": "Applicant_Resume/133787879142305422.Adham-Mohamed-BackEnd.pdf",
+      "RelativePath": "Applicant_Resume/133787879142305422.Adham-Mohamed-BackEnd#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "q5mud44e2q",
+      "Integrity": "rkiryOxOl7QtLlpGHSo5DFHK4CHLzEIeasCQ6GWjsEA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Applicant_Resume\\133787879142305422.Adham-Mohamed-BackEnd.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemApi\\wwwroot\\Applicant_Resume\\133788042523542209.Adham-Resume.pdf",
+      "SourceId": "EmploymentSystemApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemApi\\wwwroot\\",
+      "BasePath": "_content/EmploymentSystemApi",
+      "RelativePath": "Applicant_Resume/133788042523542209.Adham-Resume#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cv9vx3puiv",
+      "Integrity": "uADGqxfDy5paD6OwQOL5QHfQYz1HKOg4txKHgKJXvG8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Applicant_Resume\\133788042523542209.Adham-Resume.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemApi\\wwwroot\\Applicant_Resume\\133788048049601514.Adham-Mohamed-cv.pdf",
+      "SourceId": "EmploymentSystemApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemApi\\wwwroot\\",
+      "BasePath": "_content/EmploymentSystemApi",
+      "RelativePath": "Applicant_Resume/133788048049601514.Adham-Mohamed-cv#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qs9h9wd3jv",
+      "Integrity": "Jvu66Nrx/3nREtEA9oOQiR0lmfAqkF4hZWjgjx4xs+c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Applicant_Resume\\133788048049601514.Adham-Mohamed-cv.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemApi\\wwwroot\\Applicant_Resume\\133788052239370544.Adham-Mohamed-cv.pdf",
+      "SourceId": "EmploymentSystemApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemApi\\wwwroot\\",
+      "BasePath": "_content/EmploymentSystemApi",
+      "RelativePath": "Applicant_Resume/133788052239370544.Adham-Mohamed-cv#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qs9h9wd3jv",
+      "Integrity": "Jvu66Nrx/3nREtEA9oOQiR0lmfAqkF4hZWjgjx4xs+c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Applicant_Resume\\133788052239370544.Adham-Mohamed-cv.pdf"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Applicant_Resume/133787879089135131.Adham-Mohamed-BackEnd.pdf",
+      "AssetFile": "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemApi\\wwwroot\\Applicant_Resume\\133787879089135131.Adham-Mohamed-BackEnd.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74985"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rkiryOxOl7QtLlpGHSo5DFHK4CHLzEIeasCQ6GWjsEA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 02:51:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rkiryOxOl7QtLlpGHSo5DFHK4CHLzEIeasCQ6GWjsEA="
+        }
+      ]
+    },
+    {
+      "Route": "Applicant_Resume/133787879089135131.Adham-Mohamed-BackEnd.q5mud44e2q.pdf",
+      "AssetFile": "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemApi\\wwwroot\\Applicant_Resume\\133787879089135131.Adham-Mohamed-BackEnd.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74985"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rkiryOxOl7QtLlpGHSo5DFHK4CHLzEIeasCQ6GWjsEA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 02:51:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q5mud44e2q"
+        },
+        {
+          "Name": "label",
+          "Value": "Applicant_Resume/133787879089135131.Adham-Mohamed-BackEnd.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rkiryOxOl7QtLlpGHSo5DFHK4CHLzEIeasCQ6GWjsEA="
+        }
+      ]
+    },
+    {
+      "Route": "Applicant_Resume/133787879142305422.Adham-Mohamed-BackEnd.pdf",
+      "AssetFile": "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemApi\\wwwroot\\Applicant_Resume\\133787879142305422.Adham-Mohamed-BackEnd.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74985"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rkiryOxOl7QtLlpGHSo5DFHK4CHLzEIeasCQ6GWjsEA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 02:51:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rkiryOxOl7QtLlpGHSo5DFHK4CHLzEIeasCQ6GWjsEA="
+        }
+      ]
+    },
+    {
+      "Route": "Applicant_Resume/133787879142305422.Adham-Mohamed-BackEnd.q5mud44e2q.pdf",
+      "AssetFile": "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemApi\\wwwroot\\Applicant_Resume\\133787879142305422.Adham-Mohamed-BackEnd.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74985"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rkiryOxOl7QtLlpGHSo5DFHK4CHLzEIeasCQ6GWjsEA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 02:51:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q5mud44e2q"
+        },
+        {
+          "Name": "label",
+          "Value": "Applicant_Resume/133787879142305422.Adham-Mohamed-BackEnd.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rkiryOxOl7QtLlpGHSo5DFHK4CHLzEIeasCQ6GWjsEA="
+        }
+      ]
+    },
+    {
+      "Route": "Applicant_Resume/133788042523542209.Adham-Resume.cv9vx3puiv.pdf",
+      "AssetFile": "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemApi\\wwwroot\\Applicant_Resume\\133788042523542209.Adham-Resume.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "75417"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uADGqxfDy5paD6OwQOL5QHfQYz1HKOg4txKHgKJXvG8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 02:51:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cv9vx3puiv"
+        },
+        {
+          "Name": "label",
+          "Value": "Applicant_Resume/133788042523542209.Adham-Resume.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uADGqxfDy5paD6OwQOL5QHfQYz1HKOg4txKHgKJXvG8="
+        }
+      ]
+    },
+    {
+      "Route": "Applicant_Resume/133788042523542209.Adham-Resume.pdf",
+      "AssetFile": "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemApi\\wwwroot\\Applicant_Resume\\133788042523542209.Adham-Resume.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "75417"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uADGqxfDy5paD6OwQOL5QHfQYz1HKOg4txKHgKJXvG8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 02:51:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uADGqxfDy5paD6OwQOL5QHfQYz1HKOg4txKHgKJXvG8="
+        }
+      ]
+    },
+    {
+      "Route": "Applicant_Resume/133788048049601514.Adham-Mohamed-cv.pdf",
+      "AssetFile": "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemApi\\wwwroot\\Applicant_Resume\\133788048049601514.Adham-Mohamed-cv.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "75399"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jvu66Nrx/3nREtEA9oOQiR0lmfAqkF4hZWjgjx4xs+c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 02:51:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jvu66Nrx/3nREtEA9oOQiR0lmfAqkF4hZWjgjx4xs+c="
+        }
+      ]
+    },
+    {
+      "Route": "Applicant_Resume/133788048049601514.Adham-Mohamed-cv.qs9h9wd3jv.pdf",
+      "AssetFile": "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemApi\\wwwroot\\Applicant_Resume\\133788048049601514.Adham-Mohamed-cv.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "75399"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jvu66Nrx/3nREtEA9oOQiR0lmfAqkF4hZWjgjx4xs+c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 02:51:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qs9h9wd3jv"
+        },
+        {
+          "Name": "label",
+          "Value": "Applicant_Resume/133788048049601514.Adham-Mohamed-cv.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jvu66Nrx/3nREtEA9oOQiR0lmfAqkF4hZWjgjx4xs+c="
+        }
+      ]
+    },
+    {
+      "Route": "Applicant_Resume/133788052239370544.Adham-Mohamed-cv.pdf",
+      "AssetFile": "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemApi\\wwwroot\\Applicant_Resume\\133788052239370544.Adham-Mohamed-cv.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "75399"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jvu66Nrx/3nREtEA9oOQiR0lmfAqkF4hZWjgjx4xs+c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 02:51:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jvu66Nrx/3nREtEA9oOQiR0lmfAqkF4hZWjgjx4xs+c="
+        }
+      ]
+    },
+    {
+      "Route": "Applicant_Resume/133788052239370544.Adham-Mohamed-cv.qs9h9wd3jv.pdf",
+      "AssetFile": "C:\\Users\\Lenovo\\source\\repos\\AdhamMo1\\EmploymentSystemApi\\EmploymentSystem\\EmploymentSystemApi\\wwwroot\\Applicant_Resume\\133788052239370544.Adham-Mohamed-cv.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "75399"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jvu66Nrx/3nREtEA9oOQiR0lmfAqkF4hZWjgjx4xs+c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 02:51:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qs9h9wd3jv"
+        },
+        {
+          "Name": "label",
+          "Value": "Applicant_Resume/133788052239370544.Adham-Mohamed-cv.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jvu66Nrx/3nREtEA9oOQiR0lmfAqkF4hZWjgjx4xs+c="
+        }
+      ]
     }
   ]
 }
